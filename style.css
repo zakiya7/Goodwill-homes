@@ -100,6 +100,7 @@ color: black;
     width: 100%;
     text-align: center;
     background-color:saddlebrown;
+    color: sandybrown;
 }
 .Testimonials{
     width: 100vw;
@@ -117,4 +118,20 @@ color: black;
     border-radius: 100%;
 }
 
+.Testimonials-details .Testimonials-card {
+    width: 40%;
+}
+.Payment ,.sub-heading{
+    font-size: 40px;
+    width: 100%;
+    text-align: center;
+    background-color: saddlebrown;
+    color:sandybrown;
+}
+.Payment .Payment-details .Payment-card img{
+    border-radius: 100%;
 
+}
+.Payment-details .Payment-card {
+    width: 40%;
+}
