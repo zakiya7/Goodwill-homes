@@ -132,6 +132,22 @@ color: black;
     border-radius: 100%;
 
 }
-.Payment-details .Payment-card {
+.Payment-details .Payment-card .card-1 {
     width: 40%;
+}
+.Payment-details .Payment-card .card-2{
+    width: 40%;
+}
+.Credentials .sub-heading{
+    font-size: 40px;
+    width: 100%;
+    text-align: center;
+    background-color: sandybrown;
+    color: saddlebrown;
+}
+.Credentials .Credentials-info{
+    width: 40%;
+    text-align: center;
+    background-color: brown;
+    color: sandybrown;
 }
