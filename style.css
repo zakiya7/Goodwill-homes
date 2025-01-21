@@ -1,0 +1,64 @@
+.nav{
+    width: 100vw;
+    height: 15vh;
+    background-color: black;
+    display: flex;
+}
+.nav .logo img {
+    width:90px;
+    height:90px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+.nav .nav-links ul {
+    list-style-type: none;
+}
+.nav .nav-links ul li{
+    display: inline-flex;
+    margin-left: 30px;
+}
+.nav .nav-links ul li a {
+    text-decoration: none;
+    color: aqua;
+    font-size: 30px;
+}
+.nav .nav-links ul {
+    margin-right: 30px;
+    margin-top: 30px;
+
+}
+.banner {
+    width: 100vw;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url(Sharell\ Cook\ _\ Writer\ and\ Author.jpeg)
+}
+.banner img{
+    width: 100%;
+    height: 100%;
+}
+.banner .info-text .info-content{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 90px;
+    color:blueviolet
+}
+.banner-buttons a {
+text-decoration: none;
+background-color: rgb(0, 26, 255);
+color: white;
+width: 100px;
+height: 25px;
+display: inline-flex;
+border-radius: 10%;
+text-align: center;
+padding: auto;
+}
