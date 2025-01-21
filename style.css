@@ -61,4 +61,37 @@ display: inline-flex;
 border-radius: 10%;
 text-align: center;
 padding: auto;
+} 
+.about {
+    width: 100vw;
+    height: 89vh;
+    background-color: black;
+    color: aqua;
+}
+.about .sub-heading  {
+    width: 100%;
+    text-align: center;
+}
+.about .sub-heading h4 {
+    font-size: 40px;
+}
+.about .detail-card {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: 70%;
+;
+}
+.about .detail-card .card {
+    width: 29%;
+    height: 90%;
+    background-color: aqua;
+    text-align: center;
+    border-radius: 2%;
+color: black;
+}
+.about .detail-card .card h6 {
+    color: black;
+    font-size: 22px;
+
 }

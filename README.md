@@ -1,0 +1,1 @@
+This is a project used to save people from homes that have high risk of collapsing 
